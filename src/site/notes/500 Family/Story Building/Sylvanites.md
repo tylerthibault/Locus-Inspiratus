@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500-family/story-building/sylvanites/"}
+{"dg-publish":true,"permalink":"/500-family/story-building/sylvanites/","tags":["Netherwynd"]}
 ---
 
 # About
