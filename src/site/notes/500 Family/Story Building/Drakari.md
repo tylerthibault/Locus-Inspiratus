@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/500-family/story-building/drakari/","tags":["Netherwynd"]}
 ---
 
-![Drakari.png](/img/user/Drakari.png)
+![Drakari.png](/img/user/104%20Attachments/Drakari.png)
 # About
 The Drakari, once the Underground Dwellers of Netherwynd, were masters of subterranean engineering and craftsmanship. Today, their descendants, known as the Drakari's Heirs, carry on their ancestors' legacy. These villagers live in the intricate underground cities built by their forebears, seeking to uncover the secrets and treasures left behind by the ancient Drakari civilization.
 
