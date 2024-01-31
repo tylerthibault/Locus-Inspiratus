@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/500-family/story-building/nethirwynd/"}
 ---
 
-![Netherwynd - Cover.png](/img/user/Netherwynd%20-%20Cover.png)
+![netherwynd2.png](/img/user/104%20Attachments/netherwynd2.png)
 # About
 This project is designed to elevate the Minecraft experience for my kids and their cousins, offering them an immersive and engaging world to explore. As the 'DM' (Dungeon Master) of the Minecraft world, I take on the role of a storyteller and creator, weaving a captivating backstory that will unfold as we play together.
 
@@ -20,10 +20,9 @@ Ultimately, this project aims to create unforgettable memories and spark imagina
 Netherwynd, a land of floating islands and underground caverns, was once inhabited by a race of skyward explorers known as the 'Aetherians.' These skilled builders created magnificent floating cities and complex underground networks. However, a cataclysmic event led to their disappearance. Now, it's up to young adventurers to rediscover the Aetherian's legacy and restore the skyward splendor of Netherwynd.
 
 
-# Backstory of the Land
-![netherwynd2.png](/img/user/104%20Attachments/netherwynd2.png)
+# The Origin of Netherwynd
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/500-family/story-building/netherwynd-the-origin-of-netherwynd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -46,6 +45,7 @@ Yet, even in this tale of creation, conflict, and loss, the presence of the Chil
 Netherwynd, with all its beauty and sorrow, serves as a reflection of a greater story—a narrative of creation, fall, and the ongoing invitation to rediscover the harmony intended by the Child who, with a word, can mend what has been broken and restore what has been lost.
 
 </div></div>
+
 
 
 
