@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/500-family/story-building/sylvanites/","tags":["Netherwynd"]}
 ---
 
+![Sylvanites.png](/img/user/Sylvanites.png)
 # About
 The Sylvanites were the Surface Dwellers of Netherwynd, an ancient race known for their deep connection to the land's surface and its lush forests. Today, their descendants continue to thrive, carrying on the legacy of their forebears. These villagers live close to the surface and have inherited their ancestors' love for nature, often residing amidst the trees and maintaining a harmonious relationship with the natural world.
 # Backstory
