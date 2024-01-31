@@ -13,11 +13,6 @@ With mere words, the Child carved out mountains that pierced the skies, dug rive
 
 In this world crafted by the Child, three peoples emerged: the [[500 Family/Story Building/Sylvanites\|Sylvanites]], who found their home in the forests; the [[500 Family/Story Building/Celestians\|Celestians]], who soared in the skies; and the [[500 Family/Story Building/Drakari\|Drakari]], who thrived near the warmth of the earth's depths. Each creation of the Child, the land and its inhabitants, was imbued with a sense of purpose and peace.
 
-
-| ![Sylvanites.png](/img/user/104%20Attachments/Sylvanites.png) | ![Celestians.png](/img/user/104%20Attachments/Celestians.png) | ![Drakari.png](/img/user/104%20Attachments/Drakari.png) |
-| ---- | ---- | ---- |
-
-
 However, as time passed, this harmony was challenged. The peoples of Netherwynd, blessed with free will, began to drift apart. Disputes arose, leading to conflicts that scarred the land and hearts alike. These wars drove advancements, as each sought to protect their own, but at a cost. Some say it was this very strife, born of forgetting the Child's original design for harmony, that led to their fading from the land.
 
 Yet, even in this tale of creation, conflict, and loss, the presence of the Child whispers a promise of redemption and hope. His creations, though marred by their own choices, still hold the imprint of His goodness, a reminder of the perfect design He intended.
