@@ -6,7 +6,11 @@
 This is a place for me to put idea's, notes, maps for me to see and share with those whom I choose. 
 
 
-# [[500 Family/Story Building/Netherwynd\|Netherwynd]] - A Minecraft Project
+# Projects
+
+## [[500 Family/Story Building/Nethirwynd\|Nethirwynd]] - A Minecraft Project
+
+#### About
 This project is designed to elevate the Minecraft experience for my kids and their cousins, offering them an immersive and engaging world to explore. As the 'DM' (Dungeon Master) of the Minecraft world, I take on the role of a storyteller and creator, weaving a captivating backstory that will unfold as we play together.
 
 The goal is to add depth to their Minecraft journey, introducing them to a rich narrative that immerses them in the lore of the land we explore. Through carefully crafted stories and mysteries, they'll learn about the history, cultures, and races that once inhabited this remarkable realm.
@@ -17,6 +21,6 @@ I'll also create temples, hidden bases, and intriguing structures that will serv
 
 Ultimately, this project aims to create unforgettable memories and spark imagination, allowing my kids and their cousins to embark on thrilling adventures in the Minecraft world, all while deepening their understanding of the fascinating world I've created. Get ready for an incredible journey filled with exploration, mystery, and endless possibilities in the world of Minecraft!
 
-[[500 Family/Story Building/Netherwynd\|Go To Netherwynd]]
+[[500 Family/Story Building/Nethirwynd\|Go To Netherwynd]]
 
 
