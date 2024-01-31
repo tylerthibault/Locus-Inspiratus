@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/500-family/story-building/netherwynd/"}
 ---
 
+![DALL·E 2024-01-30 20.14.57 - Redesign the enchanting cover image for Netherwynd, ensuring the characters are more blocky in shape, resembling Minecraft characters. The mystical re.png](/img/user/DALL%C2%B7E%202024-01-30%2020.14.57%20-%20Redesign%20the%20enchanting%20cover%20image%20for%20Netherwynd,%20ensuring%20the%20characters%20are%20more%20blocky%20in%20shape,%20resembling%20Minecraft%20characters.%20The%20mystical%20re.png)
 # Meaning behind the name
 'Nether' suggests mysterious depths, 'wynd' is a variation of 'wind'. This hints at adventures beneath the surface.
 
