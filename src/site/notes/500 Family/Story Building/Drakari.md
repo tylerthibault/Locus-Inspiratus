@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500-family/story-building/drakari/"}
+{"dg-publish":true,"permalink":"/500-family/story-building/drakari/","tags":["Netherwynd"]}
 ---
 
 # About
