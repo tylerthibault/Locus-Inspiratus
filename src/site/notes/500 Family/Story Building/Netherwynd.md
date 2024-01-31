@@ -11,8 +11,6 @@ Netherwynd, a land of floating islands and underground caverns, was once inhabit
 
 # Backstory of the Land
 
-![[Voice test 1.m4a]]
-
 In the dawn of time, when the world of Minecraft was still taking shape, Netherwynd did not exist as we know it today. Instead, it was a barren and desolate wasteland, devoid of life and teeming with turbulent energies.
 
 In those primordial days, the heavens and the earth were in constant turmoil, and the realms of light and shadow were at odds. The land was a battleground for celestial forces, where the sun and moon fought for dominance over the land's destiny.
