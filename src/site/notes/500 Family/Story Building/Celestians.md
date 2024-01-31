@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500-family/story-building/celestians/"}
+{"dg-publish":true,"permalink":"/500-family/story-building/celestians/","tags":["Netherwynd"]}
 ---
 
 # About
