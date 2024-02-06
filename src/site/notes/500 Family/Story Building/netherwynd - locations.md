@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/500-family/story-building/netherwynd-locations/"}
 ---
 
+# Links
+- [[500 Family/Story Building/netherwynd - places to build\|Places to Build]]
 # Location 
 | Location | Coords |
 | ---- | ---- |
