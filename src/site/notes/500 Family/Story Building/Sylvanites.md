@@ -8,6 +8,8 @@ The Sylvanites were the Surface Dwellers of Netherwynd, an ancient race known fo
 # Backstory
 The descendants of the Sylvanites have a rich history rooted in the forests of Netherwynd. Once nomadic tribes, they settled into the woods and cultivated a profound understanding of the land's resources. Facing challenges from other races, they united under a wise and compassionate leader. Over generations, they built thriving communities in the heart of the forest, where they still live today, honoring their ancestors' heritage.
 
+
+
 # Building Guide
 1. **Natural Materials:** Sylvanite buildings should primarily use materials that blend seamlessly with the forest. Wood (such as oak, spruce, birch, or jungle wood) and leaves would be primary construction materials. You might also incorporate logs, wooden planks, fences, and doors.
     
