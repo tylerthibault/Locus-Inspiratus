@@ -51,3 +51,17 @@ Netherwynd, with all its beauty and sorrow, serves as a reflection of a greater 
 - [[500 Family/Story Building/Sylvanites\|Sylvanites]]
 - [[500 Family/Story Building/Celestians\|Celestians]]
 - [[500 Family/Story Building/Drakari\|Drakari]]
+
+- [ ] #task Add leader aspect to the races
+
+# Location 
+| Location | Coords |
+| ---- | ---- |
+| The Ice | 1563 89 269 |
+| The Caves | 309 73 340 |
+| The Mushrooms | -93 85 896 |
+| The Cliffs | -398 136 580 |
+| The Deep | -387 -54 259 |
+| The Village | 2975 69 -363 |
+| Winter Wonder Land | 3271 72 -1135 |
+| Home | -125 73 -113 |
