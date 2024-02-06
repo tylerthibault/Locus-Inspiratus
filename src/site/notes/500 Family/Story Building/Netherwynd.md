@@ -65,3 +65,17 @@ Netherwynd, with all its beauty and sorrow, serves as a reflection of a greater 
 | The Village | 2975 69 -363 |
 | Winter Wonder Land | 3271 72 -1135 |
 | Home | -125 73 -113 |
+
+# Arguments
+| name | description | Example | Notes |
+| ---- | ---- | ---- | ---- |
+| name | the name of the item | name="tyler" |  |
+| type | the type of the item | type="player" |  |
+| r | radius | r=2 | radius gets from the middle of the block to the middle. Therefore items at 2 blocks away will not be effected if r=2 |
+| rm | inverse radius | rm=2, r=4 | gets everything outside 2 radius but inside 4 radius |
+| m | game type | m=s | m = game type and s = survival |
+| c | choose | c=3, r=4 | choose 3 out of 4 radius. This will pick only three items even if there is 4 that it could grab. The 3 that it will choose will be random |
+| l | less level | l=3 | only works with players. L=3 means players with 3 or less levels |
+| lm | more levels | lm=3 | only works with players. lm=3 means players with 3 or more levels |
+| x,y,z | places the source of the action | tp @e[x=-7, y=4, z=47] \~\~1\~ |  |
+| tag | a tag that is on a person or thing | tp @e[tag=something] \~\~1\~ | FYI you can add a tag by running the command `tag @s add something` |
