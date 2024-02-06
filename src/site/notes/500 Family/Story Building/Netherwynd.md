@@ -3,6 +3,11 @@
 ---
 
 ![netherwynd2.png](/img/user/104%20Attachments/netherwynd2.png)
+# Links
+- [[500 Family/Story Building/netherwynd - races\|Races]]
+- [[500 Family/Story Building/netherwynd - locations\|Locations]]
+- [[500 Family/Story Building/netherwynd - to do\|To Do]]
+- [[500 Family/Story Building/netherwynd - op help\|OP Help]]
 # About
 This project is designed to elevate the Minecraft experience for my kids and their cousins, offering them an immersive and engaging world to explore. As the 'DM' (Dungeon Master) of the Minecraft world, I take on the role of a storyteller and creator, weaving a captivating backstory that will unfold as we play together.
 
@@ -47,35 +52,4 @@ Netherwynd, with all its beauty and sorrow, serves as a reflection of a greater 
 </div></div>
 
 
-# Ancient Races
-- [[500 Family/Story Building/Sylvanites\|Sylvanites]]
-- [[500 Family/Story Building/Celestians\|Celestians]]
-- [[500 Family/Story Building/Drakari\|Drakari]]
 
-- [ ] #task Add leader aspect to the races
-
-# Location 
-| Location | Coords |
-| ---- | ---- |
-| The Ice | 1563 89 269 |
-| The Caves | 309 73 340 |
-| The Mushrooms | -93 85 896 |
-| The Cliffs | -398 136 580 |
-| The Deep | -387 -54 259 |
-| The Village | 2975 69 -363 |
-| Winter Wonder Land | 3271 72 -1135 |
-| Home | -125 73 -113 |
-
-# Command block/terminal Arguments
-| name | description | Example | Notes |
-| ---- | ---- | ---- | ---- |
-| name | the name of the item | name="tyler" |  |
-| type | the type of the item | type="player" |  |
-| r | radius | r=2 | radius gets from the middle of the block to the middle. Therefore items at 2 blocks away will not be effected if r=2 |
-| rm | inverse radius | rm=2, r=4 | gets everything outside 2 radius but inside 4 radius |
-| m | game type | m=s | m = game type and s = survival |
-| c | choose | c=3, r=4 | choose 3 out of 4 radius. This will pick only three items even if there is 4 that it could grab. The 3 that it will choose will be random |
-| l | less level | l=3 | only works with players. L=3 means players with 3 or less levels |
-| lm | more levels | lm=3 | only works with players. lm=3 means players with 3 or more levels |
-| x,y,z | places the source of the action | tp @e[x=-7, y=4, z=47] \~\~1\~ |  |
-| tag | a tag that is on a person or thing | tp @e[tag=something] \~\~1\~ | FYI you can add a tag by running the command `tag @s add something` |
