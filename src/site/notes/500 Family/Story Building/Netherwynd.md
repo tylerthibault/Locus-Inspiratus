@@ -66,7 +66,7 @@ Netherwynd, with all its beauty and sorrow, serves as a reflection of a greater 
 | Winter Wonder Land | 3271 72 -1135 |
 | Home | -125 73 -113 |
 
-# Arguments
+# Command block/terminal Arguments
 | name | description | Example | Notes |
 | ---- | ---- | ---- | ---- |
 | name | the name of the item | name="tyler" |  |
