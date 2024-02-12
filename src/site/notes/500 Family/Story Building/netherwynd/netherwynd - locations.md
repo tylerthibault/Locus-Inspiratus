@@ -3,7 +3,7 @@
 ---
 
 # Links
-- [[500 Family/Story Building/netherwynd/netherwynd - places to build\|Places to Build]]
+- [[netherwynd - places to build\|Places to Build]]
 # Location 
 | Location | Coords |
 | ---- | ---- |
@@ -17,3 +17,10 @@
 | Home | -125 73 -113 |
 | Work Place Alpha | -2593 63 -167 |
 | Work Place Bravo | -1681 64 -400 |
+
+# Potential Spots
+| Location | Coords |
+| ---- | ---- |
+| Underground Heavan | 199 -8 138 |
+|  | -4242 52 -167 |
+| Big Tree | -4238 70 46 |
