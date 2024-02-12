@@ -96,7 +96,6 @@ An **internal threat** can be a current or former employee, an external vendor, 
 ## Virus
 - [[600 Coding/Security/Notes/cybersec - brain virus\|cybersec - brain virus]]
 - [[100 Fleeting Notes/Morris Worm\|Morris Worm]]
-
 - [[600 Coding/Security/Notes/cybersec - love letter\|cybersec - love letter]] Malware 
 
 
@@ -219,8 +218,6 @@ Reasons why social engineering attacks are effective include:
 
 
 ## [[600 Coding/Security/Notes/cybersec - CISSP\|cybersec - CISSP]]
-- [ ] Add to memory Palace 
-
 [[Excalidraw/MindMap-Our Apt\|MindMap-Our Apt]]
 
 There are 8 [[600 Coding/Security/Notes/cybersec - security domains\|cybersec - security domains]] in CISSP
@@ -489,8 +486,3 @@ As a security analyst, it’s important to stay up-to-date on common frameworks,
 **Security information and event management (SIEM)**: An application that collects and analyzes log data to monitor critical activities in an organization
 
 **SQL (Structured Query Language):** A programming language used to create, interact with, and request information from a database
-
-
-
-
-# Certificate
