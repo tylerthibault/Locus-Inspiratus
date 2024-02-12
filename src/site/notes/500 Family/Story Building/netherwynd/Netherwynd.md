@@ -8,6 +8,7 @@
 - [[500 Family/Story Building/netherwynd/netherwynd - locations\|Locations]]
 - [[500 Family/Story Building/netherwynd/netherwynd - to do\|To Do]]
 - [[500 Family/Story Building/netherwynd/netherwynd - op help\|OP Help]]
+- [[500 Family/Story Building/netherwynd/netherwynd - puzzles\|netherwynd - puzzles]]
 # About
 This project is designed to elevate the Minecraft experience for my kids and their cousins, offering them an immersive and engaging world to explore. As the 'DM' (Dungeon Master) of the Minecraft world, I take on the role of a storyteller and creator, weaving a captivating backstory that will unfold as we play together.
 
@@ -20,7 +21,7 @@ I'll also create temples, hidden bases, and intriguing structures that will serv
 Ultimately, this project aims to create unforgettable memories and spark imagination, allowing my kids and their cousins to embark on thrilling adventures in the Minecraft world, all while deepening their understanding of the fascinating world I've created. Get ready for an incredible journey filled with exploration, mystery, and endless possibilities in the world of Minecraft!
 # Meaning behind the name
 'Nether' suggests mysterious depths, 'wynd' is a variation of 'wind'. This hints at adventures beneath the surface.
-
+ 
 # Synopsis
 Netherwynd, a land of floating islands and underground caverns, was once inhabited by a race of skyward explorers known as the 'Aetherians.' These skilled builders created magnificent floating cities and complex underground networks. However, a cataclysmic event led to their disappearance. Now, it's up to young adventurers to rediscover the Aetherian's legacy and restore the skyward splendor of Netherwynd.
 
