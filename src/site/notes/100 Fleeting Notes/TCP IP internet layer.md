@@ -29,7 +29,7 @@ TCP/IP has 4 layers
 | ---- | ---- |
 | Application | NFS, NIS+, DNS, telnet, ftp, rlogin, rsh, rcp, RIP, RDISC, SNMP and others |
 | Transport | TCP, UDP |
-| Internet | IP, [[100 Fleeting Notes/ARP\|ARP]], [[600 Coding/Security/Notes/cybersec - ICMP\|cybersec - ICMP]] |
+| Internet | IP, [[100 Fleeting Notes/cybersec - ARP\|cybersec - ARP]], [[600 Coding/Security/Notes/cybersec - ICMP\|cybersec - ICMP]] |
 | Data Link | PPP, IEEE 802.2 |
 | Physical Network | Ethernet (IEEE 802.3) Token ring, RS-232, others |
 
