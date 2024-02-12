@@ -3,7 +3,7 @@
 ---
 
 # Links
-- [[netherwynd - places to build\|Places to Build]]
+- [[500 Family/Story Building/netherwynd/netherwynd - places to build\|Places to Build]]
 # Location 
 | Location | Coords |
 | ---- | ---- |
@@ -24,3 +24,4 @@
 | Underground Heavan | 199 -8 138 |
 |  | -4242 52 -167 |
 | Big Tree | -4238 70 46 |
+| Drakari's Sea Temple | -268 69 488 |
