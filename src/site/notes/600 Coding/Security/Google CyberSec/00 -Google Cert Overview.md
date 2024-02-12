@@ -27,7 +27,7 @@ Section 3: https://www.coursera.org/learn/networks-and-network-security/home/wee
 
 # Memory Palace
 [[Excalidraw/MindMap-MDHouse\|MindMap-MDHouse]]
-
+![Pasted image 20240212090244.png](/img/user/104%20Attachments/Pasted%20image%2020240212090244.png)
 # Tools
 - [[600 Coding/Security/Notes/cybersec - SIEM\|cybersec - SIEM]] Tools
 - [[600 Coding/Security/Notes/cybersec - OSINT\|cybersec - OSINT]]
