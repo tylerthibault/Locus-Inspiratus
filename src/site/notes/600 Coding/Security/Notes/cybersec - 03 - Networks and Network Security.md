@@ -392,6 +392,22 @@ VPN uses Encapsulation
 Port 500
 
 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/600-coding/security/notes/cybersec-vpn-protocols/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Notes
+> [!definition] 
+> 
+
+
+
+
+</div></div>
+
+
 </div></div>
 
 
@@ -478,4 +494,361 @@ An email proxy server is another valuable security tool. It filters spam email b
 
 
 
+## VPN protocols
 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/600-coding/security/notes/cybersec-vpn-protocols/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Notes
+> [!definition] 
+> 
+
+
+
+
+</div></div>
+
+
+
+# Module 3
+<mark class="hltr-yellow">Network Intrusion Tactics</mark>
+
+## Network Interception Attacks
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/600-coding/security/notes/cybersec-network-interception-attacks/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Notes
+> [!definition] 
+> Network interception attacks work by intercepting network traffic and stealing valuable information or interfering with the transmission in some way.
+
+Malicious actors can use hardware or software tools to capture and inspect data in transit. This is referred to as [[600 Coding/Security/Notes/cybersec - packet sniffing\|packet sniffing]]. In addition to seeing information that they are not entitled to, malicious actors can also intercept network traffic and alter it. These attacks can cause damage to an organization’s network by inserting malicious code modifications or altering the message and interrupting network operations. For example, an attacker can intercept a bank transfer and change the account receiving the funds to one that the attacker controls.
+
+
+</div></div>
+
+
+## Backdoor Attacks
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/600-coding/security/notes/cybersec-backdoor-attacks/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Notes
+> [!definition] 
+> backdoors are weaknesses intentionally left by programmers or system and network administrators that bypass normal access control mechanisms
+
+A **backdoor attack** is another type of attack you will need to be aware of as a security analyst. An organization may have a lot of security measures in place, including cameras, biometric scans and access codes to keep employees from entering and exiting without being seen. However, an employee might work around the security measures by finding a backdoor to the building that is not as heavily monitored, allowing them to sneak out for the afternoon without being seen. 
+
+In cybersecurity, backdoors are weaknesses intentionally left by programmers or system and network administrators that bypass normal access control mechanisms. <mark class="hltr-orange">Backdoors are intended to help programmers conduct troubleshooting or administrative tasks.</mark> However, backdoors can also be installed by attackers after they’ve compromised an organization to ensure they have persistent access.
+
+Once the hacker has entered an insecure network through a backdoor, they can cause extensive damage: installing malware, performing a denial of service (DoS) attack, stealing private information or changing other security settings that leaves the system vulnerable to other attacks. A **DoS attack** is an attack that targets a network or server and floods it with network traffic.
+
+</div></div>
+
+
+## Possible impacts on an organization
+
+As you’ve learned already, network attacks can have a significant negative impact on an organization. Let’s examine some potential consequences.
+
+- **Financial**: When a system is taken offline with a DoS attack, or business operations are halted or slowed down by some other tactic, they prevent a company from performing the tasks that generate revenue. Depending on the size of an organization, interrupted operations can cost millions of dollars. In addition, if a malicious actor gets access to the personal information of the company’s clients or customers, the company may face heavy litigation and settlement costs if customers seek legal recourse.
+    
+- **Reputation**: Attacks can also have a negative impact on the reputation of an organization. If it becomes public knowledge that a company has experienced a cyber attack, the public may become concerned about the security practices of the organization. They may stop trusting the company with their personal information and choose a competitor to fulfill their needs.
+    
+- **Public safety**: If an attack occurs on a government network, this can potentially impact the safety and welfare of the citizens of a country. In recent years, defense agencies across the globe are investing heavily in combating cyber warfare tactics. If a malicious actor gained access to a power grid, a public water system, or even a military defense communication system, the public could face physical harm due to a network intrusion attack.
+    
+
+## Key takeaways
+
+Malicious actors are constantly looking for ways to exploit systems. They learn about new vulnerabilities as they arise and attempt to exploit every vulnerability in a system. Attackers leverage backdoor attack methods and network interception attacks to gain sensitive information they can use to exploit an organization or cause serious damage. These types of attacks can impact an organization financially, damage its reputation, and potentially put the public in danger.  It is important that security analysts stay educated in order to maintain network safety and reduce the likelihood and impact of these types of attacks. Securing networks has never been more important.
+
+
+## The Thee C's
+1. Command
+2. Control 
+3. Communication
+## DDOS Attack
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+
+> [!definition] 
+DDoS stands for Distributed Denial of Service. It's a type of cyberattack in which multiple compromised computers or devices are used to flood a target system with a massive volume of traffic, causing it to become unavailable or slow down significantly.
+
+A type of denial of service attack that uses multiple devices or servers in different locations to flood the target network with unwanted traffic. #google-cyber 
+
+# Network Level Dos Attacks
+## SYN Flood Attack
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/600-coding/security/notes/cybersec-syn-flood-attack/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+# Notes
+ > [!definition] 
+ > A SYN flood attack is a type of DoS attack that simulates the TCP connection and floods the server with SYN packets.
+ 
+ By taking a closer look at the handshake process that is used to establish a TCP connection between a device and a server. The first step in the handshake is for the device to send a SYN, or synchronize, request to the server. Then, the server responds with a SYN/ACK packet to acknowledge the receipt of the device's request and leaves a port open for the final step of the handshake. Once the server receives the final ACK packet from the device, a TCP connection is established. Malicious actors can take advantage of the protocol by flooding a server with SYN packet requests for the first part of the handshake. But if the number of SYN requests is larger than the number of available ports on the server, then the server will be overwhelmed and become unable to function.
+
+
+
+</div></div>
+
+ 
+
+## ICMP Flood Attack
+This attack takes advantage of the protocol [[600 Coding/Security/Notes/cybersec - ICMP\|ICMP]]. 
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/600-coding/security/notes/cybersec-icmp-flood-attack/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Notes
+> [!definition] 
+> Type of DoS attack performed by an attacker repeatedly sending ICMP packets to a network server.
+
+An ICMP flood attack is a type of DoS attack performed by an attacker repeatedly sending ICMP packets to a network server. This forces the server to send an ICMP packet. This eventually uses up all the bandwidth for incoming and outgoing traffic and causes the server to crash. 
+
+</div></div>
+
+
+
+Both of the attacks, SYN flood and ICMP flood, take advantage of communication protocols by sending an overwhelming number of requests. 
+
+## Ping of Death
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/600-coding/security/notes/cybersec-ping-of-death/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+# Notes
+> [!definition] 
+> A ping of death attack is a type of DoS attack that is caused when a hacker pings a system by sending it an oversized ICMP packet that is bigger than 64 kilobytes, the maximum size for a correctly formed ICMP packet.
+
+Pinging a vulnerable network server with an oversized ICMP packet will overload the system and cause it to crash. Think of this like dropping a rock on a small anthill. Each individual ant can carry a certain amount of weight while transporting food to and from the anthill. But if a large rock is dropped on the anthill, then many ants will be crushed, and the colony is unable to function until it rebuilds its operations elsewhere.
+
+
+
+</div></div>
+
+
+
+</div></div>
+
+
+## Read tcpdump Logs
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/600-coding/security/notes/cybersec-tcpdump/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+# Notes
+> [!definition] 
+> **tcpdump** is a command-line network protocol analyzer.
+
+## tcpdump
+**tcpdump** is a command-line network protocol analyzer. It is popular, lightweight–meaning it uses little memory and has a low CPU usage–and uses the open-source libpcap library. tcpdump is text based, meaning all commands in tcpdump are executed in the terminal. It can also be installed on other Unix-based operating systems, such as macOS®. It is preinstalled on many Linux distributions.
+
+tcpdump provides a brief packet analysis and converts key information about network traffic into formats easily read by humans. It prints information about each packet directly into your terminal. tcpdump also displays the source IP address, destination IP addresses, and the port numbers being used in the communications.
+## Interpreting output
+
+tcpdump prints the output of the command as the sniffed packets in the command line, and optionally to a log file, after a command is executed. The output of a packet capture contains many pieces of important information about the network traffic.
+
+![Pasted image 20240212152526.png](/img/user/104%20Attachments/Pasted%20image%2020240212152526.png)
+Some information you receive from a packet capture includes: 
+
+- **Timestamp**: The output begins with the timestamp, formatted as hours, minutes, seconds, and fractions of a second.  
+- **Source IP**: The packet’s origin is provided by its source IP address.
+- **Source port**: This port number is where the packet originated.
+- **Destination IP**: The destination IP address is where the packet is being transmitted to.
+- **Destination port**: This port number is where the packet is being transmitted to.
+
+**Note:** By default, tcpdump will attempt to resolve host addresses to hostnames. It'll also replace port numbers with commonly associated services that use these ports.
+## Common uses
+
+tcpdump and other network protocol analyzers are commonly used to capture and view network communications and to collect statistics about the network, such as troubleshooting network performance issues. They can also be used to:
+
+- Establish a baseline for network traffic patterns and network utilization metrics.
+- Detect and identify malicious traffic
+- Create customized alerts to send the right notifications when network issues or security threats arise.
+- Locate unauthorized instant messaging (IM), traffic, or wireless access points.
+
+However, attackers can also use network protocol analyzers maliciously to gain information about a specific network. For example, attackers can capture data packets that contain sensitive information, such as account usernames and passwords. As a cybersecurity analyst, It’s important to understand the purpose and uses of network protocol analyzers.
+
+</div></div>
+
+
+## Assignment
+[Cybersecurity incident report network traffic analysis - Google Docs](https://docs.google.com/document/d/1az18kzjRsD9M95sifZydxS5sneyhLZ4lNRwVsO4wZZc/edit#heading=h.rkogpw759h9x)
+Answers: [The Exemplar Explained - Cybersecurity Incident Report: Network Traffic Analysis - Google Docs](https://docs.google.com/document/d/19kE466MVHdIRk86EOkUFvbepahRIMMIu5lDDgCBkg0E/template/preview#heading=h.rkogpw759h9x)
+
+## Packet Sniffing
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/600-coding/security/notes/cybersec-packet-sniffing/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Notes
+> [!definition] 
+> Packet sniffing is the practice of using software tools to observe data as it moves across a network. Malicious actors can use hardware or software tools to capture and inspect data in transit
+
+Malicious packet sniffing can be prevented. Let's look at a few ways the network security professional can prevent these attacks. 
+1. One way to protect against malicious packet sniffing is to <mark class="hltr-yellow">use a VPN</mark> to encrypt and protect data as it travels across the network. If you don't remember how VPNs work, you can revisit the video about this topic in the previous section of the program. When you use a VPN, hackers might interfere with your traffic, but they won't be able to decode it to read it and read your private information. 
+2. Another way to add a layer of protection against packet sniffing is to <mark class="hltr-yellow">make sure that websites you have use HTTPS</mark> at the beginning of the domain address. Previously, we discussed how HTTPS uses SSL/TLS to encrypt data and prevent eavesdropping when malicious actors spy on network transmissions. 
+3. One final way to help protect yourself against malicious packet sniffing is to <mark class="hltr-yellow">avoid using unprotected WiFi</mark>. You usually find unprotected WiFi in public places like coffee shops, restaurants, or airports. These networks don't use encryption. This means that anyone on the network can access all of the data traveling to and from your device. One precaution you can take is avoiding free public WiFi unless you have a VPN service already installed on your device.
+
+
+</div></div>
+
+
+
+## IP Spoofing
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/600-coding/security/notes/cybersec-ip-spoofing/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+# Notes
+> [!definition] 
+> IP spoofing is a network attack performed when an attacker changes the source IP of a data packet to impersonate an authorized system and gain access to a network.
+
+In this kind of attack, the hacker is pretending to be someone they are not so they can communicate over the network with the target computer and get past firewall rules that may prevent outside traffic.
+
+## On-path Attacks
+<mark class="hltr-yellow">An on-path attack is an attack where the malicious actor places themselves in the middle of an authorized connection and intercepts or alters the data in transit.</mark> On-path attackers gain access to the network and put themselves between two devices, like a web browser and a web server. Then they sniff the packet information to learn the IP and MAC addresses to devices that are communicating with each other. After they have this information, they can pretend to be either of these devices.
+## Replay Attacks
+<mark class="hltr-yellow">A replay attack is a network attack performed when a malicious actor intercepts a data packet in transit and delays it or repeats it at another time</mark>. A delayed packet can cause connection issues between target computers, or a malicious actor may take a network transmission that was sent by an authorized user and repeat it at a later time to impersonate the authorized user.
+
+## Smurf Attacks
+<mark class="hltr-yellow">A smurf attack is a combination of a DDoS attack and an IP spoofing attack. The attacker sniffs an authorized user's IP address and floods it with packets.</mark> This overwhelms the target computer and can bring down a server or the entire network.
+
+## How To Protect
+IP spoofing makes it seem like the malicious actor is an authorized user by changing the sender's address of the data packet to match the target network's address. <mark class="hltr-blue">So if a firewall receives a data packet from the internet where the sender's IP address is the same as the private network</mark>, then the firewall will deny the transmission since all the devices with that IP address should already be on the local network. You can make sure that your firewalls configure correctly by creating a rule to reject all incoming traffic that has the same IP address as the local network.
+
+</div></div>
+
+
+# Module 4
+## Security Hardening
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/600-coding/security/notes/cybersec-security-hardening/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+# Notes
+> [!definition] 
+> Security hardening is the process of strengthening a system to reduce its vulnerability and attack surface.
+
+As part of security hardening, security analysts perform regular maintenance procedures to keep network devices and systems functioning securely and optimally. Security hardening can be conducted on any device or system that can be compromised, such as <mark class="hltr-yellow">hardware, operating systems, applications, computer networks, and databases</mark>. Physical security is also a part of security hardening. This may include securing a physical space with security cameras and security guards.
+
+Some common types of hardening procedures include <mark class="hltr-yellow">software updates</mark>, also called patches, and <mark class="hltr-yellow">device application configuration changes</mark>. These updates and changes are done to increase security and fix security vulnerabilities on a network. <mark class="hltr-orange">An example of a security configuration change would be requiring longer passwords or more frequent password changes.</mark> This makes it harder for a malicious actor to gain login credentials. An example of a configuration check is updating the encryption standards for data that is stored in a database. Keeping encryption up to date makes it harder for malicious actors to access the database.
+
+Other examples of security hardening include <mark class="hltr-yellow">removing or disabling unused applications and services</mark>, <mark class="hltr-yellow">disabling unused ports, and reducing access permissions across devices and network</mark>. <mark class="hltr-blue">Minimizing the number of applications, devices, ports, and access permissions makes network and device monitoring more efficient and reduces the overall attack surface</mark>, which is one of the best ways to secure an organization.
+
+Another important strategy for security hardening is to <mark class="hltr-yellow">conduct regular penetration testing</mark>. A penetration test, also called a pen test, is a simulated attack that helps identify vulnerabilities in a system, network, website, application, and process. Penetration testers document their findings in a report. Depending on where the test fails, security teams can determine the type of security vulnerabilities that require fixing. Organizations can then review these vulnerabilities and come up with a plan to fix them.
+
+</div></div>
+
+
+## OS Hardening
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/600-coding/security/notes/cybersec-os-hardening/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+# Notes
+The operating system is the interface between computer hardware and the user. The OS is the first program loaded when a computer turns on. The OS acts as an intermediary between software applications and the computer hardware. It's important to secure the OS in each system because one insecure OS can lead to a whole network being compromised. There are many types of operating systems, and they all share similar security hardening practices. Let's talk about some of those security hardening practices that are recommended to secure an OS.
+
+Some OS hardening tasks are performed at regular intervals, like <mark class="hltr-yellow">updates, backups, and keeping an up-to-date list of devices and authorized users</mark>. Other tasks are performed only once as part of preliminary safety measures. One example would be configuring a device setting to fit a secure encryption standard. Let's begin with OS hardening tasks that are performed at a regular interval, such as patch installation, also known as patch updates.
+
+--- 
+
+Another hardening task performed regularly is hardware and software disposal. This ensures that all old hardware is properly wiped and disposed of. It's also a good idea to delete any unused software applications since some popular programming languages have known vulnerabilities. Removing unused software makes sure that there aren't any unnecessary vulnerabilities connected with the programs that the software uses.
+
+---
+The final OS hardening technique that we'll discuss is implementing a strong password policy. Strong password policies require that passwords follow specific rules. For example, an organization may set a password policy that requires a minimum of eight characters, a capital letter, a number, and a symbol. To discourage malicious actors, a password policy usually states that a user will lose access to the network after entering the wrong password a certain number of times in a row. Some systems also require multi-factor authentication, or MFA. MFA is a security measure which requires a user to verify their identity in two or more ways to access a system or network. Ways of identifying yourself include **something you know**, like a password, **something you have** like an ID card, or **something unique about you**, like your fingerprint.
+## Patch Update
+> [!definition] 
+> A patch update is a software and operating system, or OS, update that addresses security vulnerabilities within a program or product.
+
+
+
+
+
+
+</div></div>
+
+
+## Reading
+### Brute force attacks and OS hardening
+
+In this reading, you’ll learn about brute force attacks. You’ll consider how vulnerabilities can be assessed using virtual machines and sandboxes, and learn ways to prevent brute force attacks using a combination of authentication measures. Implementing various OS hardening tasks can help prevent brute force attacks. An attacker can use a brute force attack to gain access and compromise a network.
+
+<mark class="hltr-yellow">Usernames and passwords are among the most common and important security controls in place today.</mark> They are used and enforced on everything that stores or accesses sensitive or private information, like personal phones, computers, and restricted applications within an organization. However, a major issue with relying on login credentials as a critical line of defense is that they’re vulnerable to being stolen and guessed by malicious actors.
+
+#### Brute force attacks
+
+A **brute force attack** is a trial-and-error process of discovering private information. There are different types of brute force attacks that malicious actors use to guess passwords, including: 
+
+- _Simple brute force attacks._ When attackers try to guess a user's login credentials, it’s considered a simple brute force attack. They might do this by entering any combination of usernames and passwords that they can think of until they find the one that works.
+    
+- _Dictionary attacks_ use a similar technique. In dictionary attacks, attackers use a list of commonly used passwords and stolen credentials from previous breaches to access a system. These are called “dictionary” attacks because attackers originally used a list of words from the dictionary to guess the passwords, before complex password rules became a common security practice. 
+    
+
+Using brute force to access a system can be a tedious and time consuming process, especially when it’s done manually. There are a range of tools attackers use to conduct their attacks.
+
+#### Assessing vulnerabilities
+
+Before a brute force attack or other cybersecurity incident occurs, companies can run a series of tests on their network or web applications to assess vulnerabilities. Analysts can use virtual machines and sandboxes to test suspicious files, check for vulnerabilities before an event occurs, or to simulate a cybersecurity incident.
+
+##### Virtual machines (VMs)
+
+Virtual machines (VMs) are software versions of physical computers. VMs provide an additional layer of security for an organization because they can be used to run code in an isolated environment, preventing malicious code from affecting the rest of the computer or system. VMs can also be deleted and replaced by a pristine image after testing malware. 
+
+VMs are useful when investigating potentially infected machines or running malware in a constrained environment. Using a VM may prevent damage to your system in the event its tools are used improperly. VMs also give you the ability to revert to a previous state. However, there are still some risks involved with VMs. There’s still a small risk that a malicious program can escape virtualization and access the host machine. 
+
+You can test and explore applications easily with VMs, and it’s easy to switch between different VMs from your computer. This can also help in streamlining many security tasks.
+
+##### Sandbox environments
+
+A sandbox is a type of testing environment that allows you to execute software or programs separate from your network. They are commonly used for testing patches, identifying and addressing bugs, or detecting cybersecurity vulnerabilities. Sandboxes can also be used to evaluate suspicious software, evaluate files containing malicious code, and simulate attack scenarios. 
+
+Sandboxes can be stand-alone physical computers that are not connected to a network; however, it is often more time- and cost-effective to use software or cloud-based virtual machines as sandbox environments. Note that some malware authors know how to write code to detect if the malware is executed in a VM or sandbox environment. <mark class="hltr-blue">Attackers can program their malware to behave as harmless software when run inside these types of  testing environments</mark>.
+
+#### Prevention measures
+
+Some common measures organizations use to prevent brute force attacks and similar attacks from occurring include: 
+
+- **Salting and hashing:** Hashing converts information into a unique value that can then be used to determine its integrity. It is a one-way function, meaning it is impossible to decrypt and obtain the original text. Salting adds random characters to hashed passwords. This increases the length and complexity of hash values, making them more secure.
+    
+- **Multi-factor authentication (MFA) and two-factor authentication (2FA):** MFA is a security measure which requires a user to verify their identity in two or more ways to access a system or network. This verification happens using a combination of authentication factors: a username and password, fingerprints, facial recognition, or a one-time password (OTP) sent to a phone number or email. 2FA is similar to MFA, except it uses only two forms of verification.
+    
+- **CAPTCHA and reCAPTCHA:** CAPTCHA stands for Completely Automated Public Turing test to tell Computers and Humans Apart. It asks users to complete a simple test that proves they are human. This helps prevent software from trying to brute force a password. reCAPTCHA is a free CAPTCHA service from Google that helps protect websites from bots and malicious software.
+    
+- **Password policies:** Organizations use password policies to standardize good password practices throughout the business. Policies can include guidelines on how complex a password should be, how often users need to update passwords, and if there are limits to how many times a user can attempt to log in before their account is suspended.
+#### Key takeaways
+
+Brute force attacks are a trial-and-error process of guessing passwords. Attacks can be launched manually or through software tools. Methods include simple brute force attacks and dictionary attacks. To protect against brute force attacks, cybersecurity analysts can use sandboxes to test suspicious files, check for vulnerabilities, or to simulate real attacks and virtual machines to conduct vulnerability tests. Some common measures to prevent brute force attacks include: hashing and salting, MFA and/or 2FA, CAPTCHA and reCAPTCHA, and password policies.
