@@ -40,7 +40,12 @@ Modems receive transmissions from the internet and translate them into digital s
 
 A Firewall is a network security system set on the boundaries of the system/network that monitors and controls network traffic. Firewalls are mainly used to protect the system/network from viruses, worms, malware, etc. Firewalls can also be to prevent remote access and content filtering.
 ## Steps to set up a firewall
-- [x] Study (@2024-01-24)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/600-coding/security/notes/cybersec-firewall-setup/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
 1. _Username/password:_ modify the default password for a firewall device
 2. _Remote administration:_ Disable the feature of the remote administration
 3. _Port forwarding:_ Configure appropriate port forwarding for certain applications to work properly, such as a web server or FTP server
@@ -48,9 +53,17 @@ A Firewall is a network security system set on the boundaries of the system/netw
 5. _Logging:_ To troubleshoot firewall issues or potential attacks, ensure that logging is enabled and understand how to view logs
 6. _Policies:_ You should have solid security policies in place and make sure that the firewall is configured to enforce those policies.
 
-# Types of Firewalls
-A firewall is a network security device that monitors traffic to and from your network. It either allows traffic or it blocks it based on a defined set of security rules. 
+</div></div>
 
+
+# Types of Firewalls
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/600-coding/security/notes/cybersec-firewall-types/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+A firewall is a network security device that monitors traffic to and from your network. It either allows traffic or it blocks it based on a defined set of security rules. 
 ## Locations
 ### Hardware
 A hardware firewall is a physical device that inspects each data packet before it's allowed to enter the network.  These tend to cost more than the software version. 
@@ -85,7 +98,19 @@ Stateful refers to a class of firewall that keeps track of information passing t
 
 </div></div>
 
+
+</div></div>
+
+
+# Firewall Hardening
+![[cybersec - firewall - hardening\|cybersec - firewall - hardening]]
 # Memory Palace
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/600-coding/security/notes/cybersec-firewall-memory/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
 ### Linking System
 U             P          R              A           P          F        D               L           P
 Unicorns Prance, Rainbows Appear, Playful Frogs Dance, Laughs Prevails
@@ -97,7 +122,9 @@ Unicorns Prance, Rainbows Appear, Playful Frogs Dance, Laughs Prevails
 >When the fire subsides I see lots of unicorn horns lining the door way like a thorn lines the stem of a rose. 
 >
 #memory-palace #CyberSecurity 
-> 
+
+</div></div>
+
 
 
 </div></div>
@@ -303,7 +330,12 @@ WPA3 is a secure Wi-Fi protocol and is growing in usage as more WPA3 compatible 
 
 A Firewall is a network security system set on the boundaries of the system/network that monitors and controls network traffic. Firewalls are mainly used to protect the system/network from viruses, worms, malware, etc. Firewalls can also be to prevent remote access and content filtering.
 ## Steps to set up a firewall
-- [x] Study (@2024-01-24)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/600-coding/security/notes/cybersec-firewall-setup/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
 1. _Username/password:_ modify the default password for a firewall device
 2. _Remote administration:_ Disable the feature of the remote administration
 3. _Port forwarding:_ Configure appropriate port forwarding for certain applications to work properly, such as a web server or FTP server
@@ -311,9 +343,17 @@ A Firewall is a network security system set on the boundaries of the system/netw
 5. _Logging:_ To troubleshoot firewall issues or potential attacks, ensure that logging is enabled and understand how to view logs
 6. _Policies:_ You should have solid security policies in place and make sure that the firewall is configured to enforce those policies.
 
-# Types of Firewalls
-A firewall is a network security device that monitors traffic to and from your network. It either allows traffic or it blocks it based on a defined set of security rules. 
+</div></div>
 
+
+# Types of Firewalls
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/600-coding/security/notes/cybersec-firewall-types/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+A firewall is a network security device that monitors traffic to and from your network. It either allows traffic or it blocks it based on a defined set of security rules. 
 ## Locations
 ### Hardware
 A hardware firewall is a physical device that inspects each data packet before it's allowed to enter the network.  These tend to cost more than the software version. 
@@ -348,7 +388,19 @@ Stateful refers to a class of firewall that keeps track of information passing t
 
 </div></div>
 
+
+</div></div>
+
+
+# Firewall Hardening
+![[cybersec - firewall - hardening\|cybersec - firewall - hardening]]
 # Memory Palace
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/600-coding/security/notes/cybersec-firewall-memory/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
 ### Linking System
 U             P          R              A           P          F        D               L           P
 Unicorns Prance, Rainbows Appear, Playful Frogs Dance, Laughs Prevails
@@ -360,7 +412,9 @@ Unicorns Prance, Rainbows Appear, Playful Frogs Dance, Laughs Prevails
 >When the fire subsides I see lots of unicorn horns lining the door way like a thorn lines the stem of a rose. 
 >
 #memory-palace #CyberSecurity 
-> 
+
+</div></div>
+
 
 
 </div></div>
@@ -802,14 +856,14 @@ The final OS hardening technique that we'll discuss is implementing a strong pas
 </div></div>
 
 
-## Reading
-### Brute force attacks and OS hardening
+### Reading
+#### Brute force attacks and OS hardening
 
 In this reading, you’ll learn about brute force attacks. You’ll consider how vulnerabilities can be assessed using virtual machines and sandboxes, and learn ways to prevent brute force attacks using a combination of authentication measures. Implementing various OS hardening tasks can help prevent brute force attacks. An attacker can use a brute force attack to gain access and compromise a network.
 
 <mark class="hltr-yellow">Usernames and passwords are among the most common and important security controls in place today.</mark> They are used and enforced on everything that stores or accesses sensitive or private information, like personal phones, computers, and restricted applications within an organization. However, a major issue with relying on login credentials as a critical line of defense is that they’re vulnerable to being stolen and guessed by malicious actors.
 
-#### Brute force attacks
+##### Brute force attacks
 
 A **brute force attack** is a trial-and-error process of discovering private information. There are different types of brute force attacks that malicious actors use to guess passwords, including: 
 
@@ -820,11 +874,11 @@ A **brute force attack** is a trial-and-error process of discovering private inf
 
 Using brute force to access a system can be a tedious and time consuming process, especially when it’s done manually. There are a range of tools attackers use to conduct their attacks.
 
-#### Assessing vulnerabilities
+##### Assessing vulnerabilities
 
 Before a brute force attack or other cybersecurity incident occurs, companies can run a series of tests on their network or web applications to assess vulnerabilities. Analysts can use virtual machines and sandboxes to test suspicious files, check for vulnerabilities before an event occurs, or to simulate a cybersecurity incident.
 
-##### Virtual machines (VMs)
+###### Virtual machines (VMs)
 
 Virtual machines (VMs) are software versions of physical computers. VMs provide an additional layer of security for an organization because they can be used to run code in an isolated environment, preventing malicious code from affecting the rest of the computer or system. VMs can also be deleted and replaced by a pristine image after testing malware. 
 
@@ -832,13 +886,13 @@ VMs are useful when investigating potentially infected machines or running malwa
 
 You can test and explore applications easily with VMs, and it’s easy to switch between different VMs from your computer. This can also help in streamlining many security tasks.
 
-##### Sandbox environments
+###### Sandbox environments
 
 A sandbox is a type of testing environment that allows you to execute software or programs separate from your network. They are commonly used for testing patches, identifying and addressing bugs, or detecting cybersecurity vulnerabilities. Sandboxes can also be used to evaluate suspicious software, evaluate files containing malicious code, and simulate attack scenarios. 
 
 Sandboxes can be stand-alone physical computers that are not connected to a network; however, it is often more time- and cost-effective to use software or cloud-based virtual machines as sandbox environments. Note that some malware authors know how to write code to detect if the malware is executed in a VM or sandbox environment. <mark class="hltr-blue">Attackers can program their malware to behave as harmless software when run inside these types of  testing environments</mark>.
 
-#### Prevention measures
+##### Prevention measures
 
 Some common measures organizations use to prevent brute force attacks and similar attacks from occurring include: 
 
@@ -849,6 +903,77 @@ Some common measures organizations use to prevent brute force attacks and simila
 - **CAPTCHA and reCAPTCHA:** CAPTCHA stands for Completely Automated Public Turing test to tell Computers and Humans Apart. It asks users to complete a simple test that proves they are human. This helps prevent software from trying to brute force a password. reCAPTCHA is a free CAPTCHA service from Google that helps protect websites from bots and malicious software.
     
 - **Password policies:** Organizations use password policies to standardize good password practices throughout the business. Policies can include guidelines on how complex a password should be, how often users need to update passwords, and if there are limits to how many times a user can attempt to log in before their account is suspended.
-#### Key takeaways
+##### Key takeaways
 
 Brute force attacks are a trial-and-error process of guessing passwords. Attacks can be launched manually or through software tools. Methods include simple brute force attacks and dictionary attacks. To protect against brute force attacks, cybersecurity analysts can use sandboxes to test suspicious files, check for vulnerabilities, or to simulate real attacks and virtual machines to conduct vulnerability tests. Some common measures to prevent brute force attacks include: hashing and salting, MFA and/or 2FA, CAPTCHA and reCAPTCHA, and password policies.
+
+
+## Network Hardening
+Layers of security to a network is referred to as **defense in depth**. We can Harden our network by adding things like
+- [[600 Coding/Security/Notes/cybersec - IDS\|IDS]]
+- [[600 Coding/Security/Notes/cybersec - Firewall\|Firewall]]
+- [[600 Coding/Security/Notes/cybersec - IPS\|IPS]]
+- [[600 Coding/Security/Notes/cybersec - full packet capture devices\|Full Packet Capture Devices]]
+- [[600 Coding/Security/Notes/cybersec - SIEM\|SIEM Tools]]
+
+### Table of Network Hardening
+| Security hardening task | Description | Common uses |
+| ---- | ---- | ---- |
+| Baseline configurations | A documented set of specifications within a system that is used as a basis for future builds, releases, and updates. | To restore a system to a previous baseline after a network outage, or unauthorized changes on a baseline. |
+| Configuration checks | Updating the encryption standards for data that is stored in databases. | To see if there are any unauthorized changes to the system. |
+| Disabling unused ports | Ports can be blocked on firewalls, routers, servers, and more to prevent potentially dangerous network traffic from passing through. | Before an incident occurs, to prevent malicious actors from entering the network through the open port. Can be used after an incident to prevent future attacks from happening through unused open ports. |
+| Encryption using the latest standards | Rules or methods used to conceal outgoing data and uncover or decrypt the incoming data. | Can be implemented regularly to assess if the current encryption standards are secure and effective for your organization. The encryption standards can also be updated after a data breach. |
+| Firewall maintenance | Firewall maintenance entails checking and updating security configurations regularly to stay ahead of potential threats. | This can happen regularly. Firewall rules can be updated in response to an event that allows abnormal network traffic into the network. This measure can be used to protect against various DDoS attacks. |
+| Hardware & software disposal | Ensures that all old hardware is properly wiped of all data and disposed of. | Prevent the network from various threats by removing outdated or unused software or hardware that do not have the latest security patches or updates. Unpatched devices can allow malicious actors to easily access the network. |
+| Multifactor authentication (MFA) | A security measure which requires a user to verify their identity in two or more ways to access a system or network. MFA options include a password, pin number, badge, one-time password (OTP) sent to a cell phone, fingerprint, and more. | Can help protect against brute force attacks and similar security events. MFA can be implemented at any time, and is mostly a technique that is set up once then maintained. |
+| Network access privileges | Network access privileges involves permitting, limiting, and/or blocking access privileges to network assets for people, roles, groups, IP addresses, MAC addresses, etc. | Reduces the risk of unauthorized users and outside traffic from accessing the internal network. This can be implemented once, or revisited depending on the likelihood of social engineering or brute force attacks. |
+| Network log analysis | The process of examining network logs to identify events of interest. | Can be configured to alert the security team when there is abnormal traffic on the network. This can be used either before an incident occurs, during to track network traffic, and can be configured in the response of a cybersecurity attack. A common tool used for analyzing network logs is a SIEM. |
+| Password policies | The National Institute of Standards and Technology's (NIST) latest recommendations for password policies focuses on using methods to salt and hash passwords, rather than requiring overly complex passwords or enforcing frequent changes to passwords. | Password policies are used to prevent attackers from easily guessing user passwords, either manually or by using a script to attempt thousands of stolen passwords (commonly called a brute force attack). |
+| Patch updates | A software and operating system (OS) update that addresses security vulnerabilities within a program or product. | Patch updates often contain fixes to security problems. It is important to keep systems up to date with the latest security patches because attackers will be alerted to the security vulnerability when patches are released. They will be more likely to target that vulnerability before people eventually apply the patches. |
+| Penetration test (pen test) | A simulated attack that helps identify vulnerabilities in systems, networks, websites, applications, and processes. | Pen tests are used to protect and prevent against potential attacks. |
+| Port filtering | A firewall function that blocks or allows certain port numbers to limit unwanted communication. | Port filtering is used to control network traffic and can prevent potential attackers from entering a private network. |
+| Removing or disabling unused applications and services | Unused applications and services can become a point of vulnerability because they are less likely to be maintained or updated with new security features. | This procedure is used to reduce potential vulnerabilities within a network. |
+| Server and data storage backups | Server and data storage backups help protect data assets from being lost. Backups can be recorded and stored in a physical location or uploaded/synced to a cloud repository. | Backups are used to restore lost data from attacks, human error, equipment failures, and other unplanned losses. |
+
+### Questions 
+- What is the basic principle of port filtering
+	- A basic principle of port filtering is to allow ports that are used by normal network operations. Any port that is not being used by the normal network operations should be disallowed to protect against vulnerabilities.
+
+## Cloud Hardening
+Cloud Hardening includes using the following
+
+[[600 Coding/Security/Notes/cybersec - Identity and Access Management (IAM)\|cybersec - Identity and Access Management (IAM)]]
+[[600 Coding/Security/Notes/cybersec - Hypervisors\|cybersec - Hypervisors]]
+[[600 Coding/Security/Notes/cybersec -Baselining\|cybersec -Baselining]]
+
+### Cloud security considerations
+#### Identity access management
+Identity access management (IAM) is a collection of processes and technologies that helps organizations manage digital identities in their environment. This service also authorizes how users can use different cloud resources. A common problem that organizations face when using the cloud is the <mark class="hltr-red">loose configuration of cloud user roles</mark>. An improperly configured user role increases risk by allowing unauthorized users to have access to critical cloud operations. 
+
+#### Configuration
+The number of available cloud services adds complexity to the network. Each service must be carefully configured to meet security and compliance requirements. This presents a particular challenge when organizations perform an initial migration into the cloud. When this change occurs on their network, they must ensure that every process moved into the cloud has been configured correctly. If network administrators and architects are not meticulous in correctly configuring the organization’s cloud services, they could leave the network open to compromise. Misconfigured cloud services are a common source of cloud security issues. 
+
+#### Attack surface 
+**Cloud service providers** (CSPs) offer numerous applications and services for organizations at a low cost. 
+
+Every service or application on a network carries its own set of risks and vulnerabilities and increases an organization’s overall attack surface. An increased attack surface must be compensated for with increased security measures.
+
+Cloud networks that utilize many services introduce lots of entry points into an organization’s network. However, if the network is designed correctly, utilizing several services does not introduce more entry points into an organization’s network design. These entry points can be used to introduce malware onto the network and pose other security vulnerabilities. It is important to note that CSPs often defer to more secure options, and have undergone more scrutiny than a traditional on-premises network. 
+
+#### Zero-day attacks
+Zero-day attacks are an important security consideration for organizations using cloud or traditional on-premise network solutions. A zero day attack is an exploit that was previously unknown. CSPs are more likely to know about a zero day attack occurring before a traditional IT organization does. CSPs have ways of patching hypervisors and migrating workloads to other virtual machines. These methods ensure the customers are not impacted by the attack. There are also several tools available for patching at the operating system level that organizations can use.
+
+#### Visibility and tracking 
+Network administrators have access to every data packet crossing the network with both on-premise and cloud networks. They can sniff and inspect data packets to learn about network performance or to check for possible threats and attacks.
+
+This kind of visibility is also offered in the cloud through flow logs and tools, such as packet mirroring. CSPs take responsibility for security in the cloud, but they do not allow the organizations that use their infrastructure to monitor traffic on the CSP’s servers. Many CSPs offer strong security measures to protect their infrastructure. Still, this situation might be a concern for organizations that are accustomed to having full access to their network and operations. CSPs pay for third-party audits to verify how secure a cloud network is and identify potential vulnerabilities. The audits can help organizations identify whether any vulnerabilities originate from on-premise infrastructure and if there are any compliance lapses from their CSP. 
+
+#### Things change fast in the cloud
+CSPs are large organizations that work hard to stay up-to-date with technology advancements. For organizations that are used to being in control of any adjustments made to their network, this can be a potential challenge to keep up with. Cloud service updates can affect security considerations for the organizations using them. For example, connection configurations might need to be changed based on the CSP’s updates. 
+
+Organizations that use CSPs usually have to update their IT processes. It is possible for organizations to continue following established best practices for changes, configurations, and other security considerations. However, an organization might have to adopt a different approach in a way that aligns with changes made by the CSP. 
+
+Cloud networking offers various options that might appear attractive to a small company—options that they could never afford to build on their own premises. However, it is important to consider that each service adds complexity to the security profile of the organization, and they will need security personnel to monitor all of the cloud services. 
+
+
+
