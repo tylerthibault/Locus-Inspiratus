@@ -14,6 +14,7 @@ Section 3: https://www.coursera.org/learn/networks-and-network-security/home/wee
 - [[600 Coding/Security/Notes/cybersec - 01 - Foundations of Cybersecurity\|cybersec - 01 - Foundations of Cybersecurity]]
 - [[600 Coding/Security/Notes/cybersec - 02 - Play It Safe Manage Security Risks\|cybersec - 02 - Play It Safe Manage Security Risks]]
 - [[600 Coding/Security/Notes/cybersec - 03 - Networks and Network Security\|cybersec - 03 - Networks and Network Security]]
+- [[600 Coding/Security/Google CyberSec/cybersec - 04 - Tools of the Trade (Linux and SQL)\|cybersec - 04 - Tools of the Trade (Linux and SQL)]]
 
 # Program Overview
 - Core security concepts
@@ -27,7 +28,6 @@ Section 3: https://www.coursera.org/learn/networks-and-network-security/home/wee
 
 # Memory Palace
 [[Excalidraw/MindMap-MDHouse\|MindMap-MDHouse]]
-![m-d-mindmap.png](/img/user/600%20Coding/Security/Notes/m-d-mindmap.png)
 # Tools
 - [[600 Coding/Security/Notes/cybersec - SIEM\|cybersec - SIEM]] Tools
 - [[600 Coding/Security/Notes/cybersec - OSINT\|cybersec - OSINT]]
