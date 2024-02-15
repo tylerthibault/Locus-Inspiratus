@@ -36,7 +36,7 @@ They are responsible for monitoring and protecting information and systems.
 > [[600 Coding/Security/Notes/CyberSec - Playbooks\|CyberSec - Playbooks]] are a list of how to go through a certain detection, and what the analyst needs to look at in order to investigate those incidents.
 
 > [!definition] Compliance
-**Compliance** is the process of adhering to internal standards and external regulations and enables organizations to avoid fines and security breaches.
+**[[600 Coding/Security/Notes/cybersec - Compliance\|cybersec - Compliance]]** is the process of adhering to internal standards and external regulations and enables organizations to avoid fines and security breaches.
 
 > [!definition] Security frameworks
 **Security frameworks** are guidelines used for building plans to help mitigate risks and threats to data and privacy.
@@ -181,6 +181,7 @@ Equifax Breach
 
 **Social engineering** is a manipulation technique that exploits human error to gain private information, access, or valuables. Human error is usually a result of trusting someone without question. It’s the mission of a threat actor, acting as a social engineer, to create an environment of false trust and lies to exploit as many people as possible. 
 
+- [ ] #task #memory-work  #CyberSecurity Social Engineering Examples
 Some of the most common types of social engineering attacks today include:
 
 - **Social media phishing:** A threat actor collects detailed information about their target from social media sites. Then, they initiate an attack.
@@ -196,6 +197,7 @@ Some of the most common types of social engineering attacks today include:
 
 Social engineering is incredibly effective. This is because people are generally trusting and conditioned to respect authority. The number of social engineering attacks is increasing with every new social media application that allows public access to people's data. Although sharing personal data—such as your location or photos—can be convenient, it’s also a risk.
 
+- [ ] #task #memory-work  #CyberSecurity why social attacks are effective
 Reasons why social engineering attacks are effective include:
 
 - **Authority:** Threat actors impersonate individuals with power. This is because people, in general, have been conditioned to respect and follow authority figures. 
@@ -211,6 +213,8 @@ Reasons why social engineering attacks are effective include:
 - **Trust:** Threat actors establish an emotional relationship with users that can be exploited _over time_. They use this relationship to develop trust and gain personal information.
     
 - **Urgency:** A threat actor persuades others to respond quickly and without questioning.
+
+
 
 </div></div>
 
