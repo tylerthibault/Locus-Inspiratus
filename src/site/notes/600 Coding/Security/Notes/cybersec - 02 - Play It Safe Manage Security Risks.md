@@ -189,6 +189,7 @@ According to the Office of the Director of National Intelligence, the CTF was de
 - [ ] #task #memory-work  CSF Functions
 
 ## Functions
+- [ ] #task #memory-work  #CyberSecurity Cybersecurity incident response phases
 1. Identify
 	1. The management of cybersecurity risk and its effect on an organization's people and assets 
 2. Protect
