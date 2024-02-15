@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/600-coding/security/security/sec-db/"}
+{"database-plugin":"basic","dg-publish":true,"permalink":"/600-coding/security/security/sec-db/","dgPassFrontmatter":true}
 ---
 
 
 ```yaml:dbfolder
 name: new database
-description: new description
+description: Database for Sec+ Learning
 columns:
   MemoryPalace:
     input: checkbox
@@ -36,7 +36,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 459
+    width: 695
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -163,25 +163,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  aliases:
-    input: text
-    accessorKey: aliases
-    label: aliases
-    key: aliases
-    id: aliases
-    position: 10
-    skipPersist: false
-    isHidden: true
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   __file__:
     key: __file__
     id: __file__
@@ -204,9 +185,28 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+  Needs_Reviiew:
+    input: checkbox
+    accessorKey: Needs_Reviiew
+    key: Needs_Reviiew
+    id: Needs_Reviiew
+    label: Needs Reviiew
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
-  remove_field_when_delete_column: false
-  cell_size: normal
+  remove_field_when_delete_column: true
+  cell_size: wide
   sticky_first_column: true
   group_folder_column: 
   remove_empty_folders: false
@@ -221,7 +221,7 @@ config:
   source_data: tag
   source_form_result: "#cybersec-sec-plus"
   source_destination_path: 600 Coding/Security/Notes
-  row_templates_folder: /
+  row_templates_folder: 000 Templates
   current_row_template: 
   pagination_size: 25
   font_size: 16
@@ -248,6 +248,15 @@ filters:
         filters:
         - field: MemoryPalace
           operator: IS_EMPTY
+          value: ""
+          type: checkbox
+      - condition: AND
+        disabled: true
+        label: "Needs Review"
+        color: "hsl(99, 95%, 90%)"
+        filters:
+        - field: Needs_Reviiew
+          operator: IS_NOT_EMPTY
           value: ""
           type: checkbox
 ```
