@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locus-inspiratus/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"permalink":"/locus-inspiratus/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # About This Digital Garden
