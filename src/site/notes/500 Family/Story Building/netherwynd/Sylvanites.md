@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500-family/story-building/netherwynd/sylvanites/","tags":["Netherwynd"]}
+{"dg-publish":true,"template":"[[Locus Inspiratus Template]]","tags":["Netherwynd"],"permalink":"/500-family/story-building/netherwynd/sylvanites/","dgPassFrontmatter":true}
 ---
 
 ![Sylvanites.png](/img/user/104%20Attachments/Sylvanites.png)
