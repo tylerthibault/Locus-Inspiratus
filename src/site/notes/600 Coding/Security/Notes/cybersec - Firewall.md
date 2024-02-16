@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/600-coding/security/notes/cybersec-firewall/"}
+{"created_date":"2023-11-13","aliases":["Firewall"],"tags":null,"template":"[[Default Notes]]","summary":null,"dg-publish":true,"permalink":"/600-coding/security/notes/cybersec-firewall/","dgPassFrontmatter":true}
 ---
 
 # Notes
