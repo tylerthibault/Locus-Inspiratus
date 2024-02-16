@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/600-coding/security/notes/cybersec-cia-triad/","tags":["CyberSecurity","cybersec-profm","google-cyber","cybersec-sec-plus"]}
+{"dg-publish":true,"db-show":true,"memory_palace":null,"created_date":"2023-11-13","aliases":["CIA triad"],"tags":["CyberSecurity","cybersec-profm","google-cyber","cybersec-sec-plus"],"template":"[[CyberSec Template]]","summary":null,"Summary":"The CIA Triad is an acronym that we use to remember \"confidenal\", \"Integrity\" and \"Availability\". Confidentiality mean that only authorized users can access it. Integrity means that the info that we put in the container has not been tampered with. And Availability means that the data is ready to go when the authorized user wants to access it.","YouTube_Link":"https://www.youtube.com/watch?v=SBcDGb9l6yo&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv&index=3","permalink":"/600-coding/security/notes/cybersec-cia-triad/","dgPassFrontmatter":true}
 ---
 
 > [!summary] 
