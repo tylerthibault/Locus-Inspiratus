@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/600-coding/security/google-cyber-sec/cybersec-security-controls-directive/","tags":["CyberSecurity"]}
+{"tags":["CyberSecurity"],"template":"[[CyberSec Template]]","dg-publish":true,"permalink":"/600-coding/security/google-cyber-sec/cybersec-security-controls-directive/","dgPassFrontmatter":true}
 ---
 
 # Notes
