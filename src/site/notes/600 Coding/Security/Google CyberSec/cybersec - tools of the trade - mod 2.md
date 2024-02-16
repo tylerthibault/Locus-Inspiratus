@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/600-coding/security/google-cyber-sec/cybersec-tools-of-the-trade-mod-2/","tags":["CyberSecurity"]}
+{"tags":["CyberSecurity"],"template":"[[CyberSec Template]]","dg-publish":true,"permalink":"/600-coding/security/google-cyber-sec/cybersec-tools-of-the-trade-mod-2/","dgPassFrontmatter":true}
 ---
 
 # Components of Linux
