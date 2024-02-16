@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100-fleeting-notes/morris-worm/"}
+{"created_date":"2023-11-13","aliases":["Morris Worm"],"tags":null,"template":"[[Default Notes]]","summary":null,"dg-publish":true,"permalink":"/100-fleeting-notes/morris-worm/","dgPassFrontmatter":true}
 ---
 
 
