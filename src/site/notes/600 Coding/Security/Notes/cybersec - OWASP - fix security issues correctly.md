@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/600-coding/security/notes/cybersec-owasp-fix-security-issues-correctly/","tags":["CyberSecurity"]}
+{"tags":["CyberSecurity"],"template":"[[CyberSec Template]]","dg-publish":true,"permalink":"/600-coding/security/notes/cybersec-owasp-fix-security-issues-correctly/","dgPassFrontmatter":true}
 ---
 
 
