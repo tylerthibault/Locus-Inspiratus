@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/600-coding/security/notes/cybersec-gap-analysis/","tags":["CyberSecurity","cybersec-profm","cybersec-sec-plus"]}
+{"dg-publish":true,"db-show":true,"memory_palace":null,"tags":["CyberSecurity","cybersec-profm","cybersec-sec-plus"],"template":"[[CyberSec Template]]","Summary":"The gap analysis is the process of looking at where we are currently and where we want to be and making a plan to get there. This could includes looking at personnel as well as IT systems and physical security systems.","YouTube_Link":"https://www.youtube.com/watch?v=cuTVyyS5C7M&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv&index=6","permalink":"/600-coding/security/notes/cybersec-gap-analysis/","dgPassFrontmatter":true}
 ---
 
 > [!summary] 
