@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500-family/story-building/netherwynd/netherwynd-locations/"}
+{"dg-publish":true,"permalink":"/500-family/story-building/netherwynd/netherwynd-locations/","dgPassFrontmatter":true}
 ---
 
 # Links
