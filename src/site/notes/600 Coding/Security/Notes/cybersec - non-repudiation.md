@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/600-coding/security/notes/cybersec-non-repudiation/","tags":["CyberSecurity","cybersec-profm","cybersec-sec-plus"]}
+{"tags":["CyberSecurity","cybersec-profm","cybersec-sec-plus"],"template":"[[CyberSec Template]]","dg-publish":true,"Summary":"The ability to verify that the information really came from the sender.","YouTube_Link":"https://www.youtube.com/watch?v=XxnCxPEllMg&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv&index=6","db-show":true,"memory_palace":null,"permalink":"/600-coding/security/notes/cybersec-non-repudiation/","dgPassFrontmatter":true}
 ---
 
 > [!summary] 
