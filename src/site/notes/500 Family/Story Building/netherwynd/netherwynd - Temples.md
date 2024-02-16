@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500-family/story-building/netherwynd/netherwynd-temples/"}
+{"dg-publish":true,"permalink":"/500-family/story-building/netherwynd/netherwynd-temples/","dgPassFrontmatter":true}
 ---
 
 # Drakari
