@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500-family/story-building/netherwynd/netherwynd/"}
+{"dg-publish":true,"permalink":"/500-family/story-building/netherwynd/netherwynd/","dgPassFrontmatter":true}
 ---
 
 ![netherwynd2.png](/img/user/104%20Attachments/netherwynd2.png)
