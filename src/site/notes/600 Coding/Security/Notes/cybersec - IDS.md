@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/600-coding/security/notes/cybersec-ids/","tags":["CyberSecurity"]}
+{"created_date":"2023-11-13","aliases":["IDS"],"tags":["CyberSecurity"],"template":"[[CyberSec Template]]","summary":null,"dg-publish":true,"permalink":"/600-coding/security/notes/cybersec-ids/","dgPassFrontmatter":true}
 ---
 
 # Notes
