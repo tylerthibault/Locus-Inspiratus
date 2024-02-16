@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/600-coding/security/notes/cybersec-penetration-testing/"}
+{"created_date":"2023-11-13","aliases":["Penetration Testing"],"tags":null,"template":"[[Default Notes]]","summary":null,"dg-publish":true,"permalink":"/600-coding/security/notes/cybersec-penetration-testing/","dgPassFrontmatter":true}
 ---
 
 # Notes
