@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500-family/story-building/netherwynd/netherwynd-drakari-s-lava-forged-temple/"}
+{"dg-publish":true,"permalink":"/500-family/story-building/netherwynd/netherwynd-drakari-s-lava-forged-temple/","dgPassFrontmatter":true}
 ---
 
 **Drakari's Lava-Forged Temple**
