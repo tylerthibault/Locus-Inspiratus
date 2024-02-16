@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/600-coding/security/notes/cybersec-firewall-setup/","tags":["CyberSecurity"]}
+{"tags":["CyberSecurity"],"template":"[[CyberSec Template]]","dg-publish":true,"permalink":"/600-coding/security/notes/cybersec-firewall-setup/","dgPassFrontmatter":true}
 ---
 
 1. _Username/password:_ modify the default password for a firewall device
