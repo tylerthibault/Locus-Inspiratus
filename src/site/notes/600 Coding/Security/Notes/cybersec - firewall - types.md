@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/600-coding/security/notes/cybersec-firewall-types/","tags":["CyberSecurity"]}
+{"tags":["CyberSecurity"],"template":"[[CyberSec Template]]","dg-publish":true,"permalink":"/600-coding/security/notes/cybersec-firewall-types/","dgPassFrontmatter":true}
 ---
 
 A firewall is a network security device that monitors traffic to and from your network. It either allows traffic or it blocks it based on a defined set of security rules. 
