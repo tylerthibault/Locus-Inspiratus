@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100-fleeting-notes/cybersec-udp/"}
+{"created_date":"2023-11-13","aliases":["UDP"],"tags":null,"template":"[[Default Notes]]","summary":null,"dg-publish":true,"permalink":"/100-fleeting-notes/cybersec-udp/","dgPassFrontmatter":true}
 ---
 
 
