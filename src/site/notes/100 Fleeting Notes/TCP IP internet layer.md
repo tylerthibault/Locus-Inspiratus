@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100-fleeting-notes/tcp-ip-internet-layer/"}
+{"created_date":"2023-11-13","aliases":["TCP IP internet layer"],"tags":null,"template":"[[Default Notes]]","summary":null,"dg-publish":true,"permalink":"/100-fleeting-notes/tcp-ip-internet-layer/","dgPassFrontmatter":true}
 ---
 
 # Notes
