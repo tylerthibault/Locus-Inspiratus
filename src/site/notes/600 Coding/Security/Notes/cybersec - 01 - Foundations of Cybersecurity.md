@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/600-coding/security/notes/cybersec-01-foundations-of-cybersecurity/","tags":["CyberSecurity","moc"]}
+{"tags":["CyberSecurity","moc"],"template":"[[CyberSec Template]]","dg-publish":true,"permalink":"/600-coding/security/notes/cybersec-01-foundations-of-cybersecurity/","dgPassFrontmatter":true}
 ---
 
 
