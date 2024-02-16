@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500-family/story-building/netherwynd/netherwynd-the-origin-of-netherwynd/","tags":["Netherwynd"]}
+{"tags":["Netherwynd"],"dg-publish":true,"template":"[[Locus Inspiratus Template]]","permalink":"/500-family/story-building/netherwynd/netherwynd-the-origin-of-netherwynd/","dgPassFrontmatter":true}
 ---
 
 
