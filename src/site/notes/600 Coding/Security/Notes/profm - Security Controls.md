@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/600-coding/security/notes/profm-security-controls/","tags":["CyberSecurity","cybersec-profm","cybersec-sec-plus"]}
+{"dg-publish":true,"memory_palace":true,"db-show":true,"tags":["CyberSecurity","cybersec-profm","cybersec-sec-plus"],"YouTube_Link":"https://www.youtube.com/watch?v=STM3EUvL7wg&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv&index=3","Summary":"In this section we learned about the different control types in security. These are Preventive, Deterrent, Detective, Corrective, Compensating, Directive. I placed these into my memory palace by using animal charachers. There is the Preventive Pigeons, the Deterrent Dodo Birds, the Detective Dragon, the Corrective Chameleon, Compensating Camel, and the Directive Duck. Each one of these controls have a differnt job to play. Preventive and deterrent happens before the attack while Detective and corrective happen after the attack. Compensating and directive are controls we can set up in the day to day.","permalink":"/600-coding/security/notes/profm-security-controls/","dgPassFrontmatter":true}
 ---
 
 > [!summary] 
