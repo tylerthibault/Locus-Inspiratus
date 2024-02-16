@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/600-coding/security/notes/cybersec-02-play-it-safe-manage-security-risks/","tags":["CyberSecurity","moc"]}
+{"tags":["CyberSecurity","moc"],"template":"[[CyberSec Template]]","dg-publish":true,"permalink":"/600-coding/security/notes/cybersec-02-play-it-safe-manage-security-risks/","dgPassFrontmatter":true}
 ---
 
 # Links
