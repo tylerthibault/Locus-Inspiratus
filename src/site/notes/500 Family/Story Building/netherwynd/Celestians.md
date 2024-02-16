@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500-family/story-building/netherwynd/celestians/","tags":["Netherwynd"]}
+{"dg-publish":true,"template":"[[Locus Inspiratus Template]]","tags":["Netherwynd"],"permalink":"/500-family/story-building/netherwynd/celestians/","dgPassFrontmatter":true}
 ---
 
 ![Celestians.png](/img/user/104%20Attachments/Celestians.png)
