@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/600-coding/security/notes/cybersec-methods-of-attack/","tags":["CyberSecurity","typesOfAttacks"]}
+{"tags":["CyberSecurity","typesOfAttacks"],"template":"[[CyberSec Template]]","dg-publish":true,"permalink":"/600-coding/security/notes/cybersec-methods-of-attack/","dgPassFrontmatter":true}
 ---
 
 # Notes
