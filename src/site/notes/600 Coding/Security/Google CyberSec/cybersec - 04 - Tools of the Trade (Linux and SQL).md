@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/600-coding/security/google-cyber-sec/cybersec-04-tools-of-the-trade-linux-and-sql/","tags":["CyberSecurity"]}
+{"tags":["CyberSecurity"],"template":"[[CyberSec Template]]","dg-publish":true,"permalink":"/600-coding/security/google-cyber-sec/cybersec-04-tools-of-the-trade-linux-and-sql/","dgPassFrontmatter":true}
 ---
 
 # Links
