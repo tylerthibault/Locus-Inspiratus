@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500-family/story-building/netherwynd/netherwynd-races/"}
+{"dg-publish":true,"permalink":"/500-family/story-building/netherwynd/netherwynd-races/","dgPassFrontmatter":true}
 ---
 
 # Ancient Races
