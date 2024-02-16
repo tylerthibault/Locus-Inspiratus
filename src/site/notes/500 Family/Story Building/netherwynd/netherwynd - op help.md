@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500-family/story-building/netherwynd/netherwynd-op-help/"}
+{"dg-publish":true,"permalink":"/500-family/story-building/netherwynd/netherwynd-op-help/","dgPassFrontmatter":true}
 ---
 
 
