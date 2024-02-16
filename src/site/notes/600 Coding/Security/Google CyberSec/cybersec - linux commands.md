@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/600-coding/security/google-cyber-sec/cybersec-linux-commands/","tags":["CyberSecurity"]}
+{"tags":["CyberSecurity"],"template":"[[CyberSec Template]]","dg-publish":true,"permalink":"/600-coding/security/google-cyber-sec/cybersec-linux-commands/","dgPassFrontmatter":true}
 ---
 
 ## Common Commands
