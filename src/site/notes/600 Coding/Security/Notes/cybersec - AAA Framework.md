@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/600-coding/security/notes/cybersec-aaa-framework/","tags":["CyberSecurity","cybersec-profm","cybersec-sec-plus"]}
+{"dg-publish":true,"db-show":true,"memory_palace":null,"tags":["CyberSecurity","cybersec-profm","cybersec-sec-plus"],"template":"[[CyberSec Template]]","Summary":"The AAA framework is the process we use to get someone logged into the system and track where and what data packets are being moved around.","YouTube_Link":"https://www.youtube.com/watch?v=AhaZtj5P2a8&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv&index=5","permalink":"/600-coding/security/notes/cybersec-aaa-framework/","dgPassFrontmatter":true}
 ---
 
 # Authentication, Authorization and Accounting
